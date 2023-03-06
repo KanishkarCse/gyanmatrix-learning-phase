@@ -1,0 +1,31 @@
+1.versions of vs code
+   standard and insider addtion
+2.beginner to open for first time
+3.layout for vs code
+4.customizing the layout 
+5.shortcuts working with files
+   Ctrl+Shift+P - F1	Show Command Palette
+Ctrl+P -	Quick Open, Go to File
+Ctrl+Shift+N -	New window
+Ctrl+Shift+W -	Close window
+Ctrl+,	User Settings
+Ctrl+K Ctrl+S -	Keyboard Shortcuts
+6.search and replaceing of code
+7.navigating and editing text
+8.intellisense
+ intellisens is a code completion, parameter info, quick info, and member lists
+9.emmet
+ uses different abbreviations and short expressions depending on what's passed, and then dynamically converts the abbreviations into the full code
+10.settings panel
+11.extensions and themes
+  adding languages, debuggers, and tools to our installation to support our development workflow
+12.keyboard shortcuts
+13.snippets
+   Ctrl+Space -  templates that make it easier to enter repeating code patterns, such as loops or conditional-statements
+14.keymap extensions
+  modify the VS Code shortcuts to match those of other editors
+15.built in terminal
+ To open the terminal: Use the Ctrl+` keyboard shortcut to toggle the terminal panel.
+16.source control integration
+17.wrap up
+   automatically adjust long line of code in multiple lines based on the editor view area
